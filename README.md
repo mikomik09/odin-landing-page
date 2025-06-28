@@ -8,6 +8,6 @@ Image by <a href="https://pixabay.com/users/thedigitalway-3008341/?utm_source=li
 
 Photo by cottonbro studio: https://www.pexels.com/photo/kids-playing-with-black-cat-6864012/
 
-Photo by <a href="https://unsplash.com/@willianjusten?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Willian Justen de Vasconcellos</a> on <a href="https://unsplash.com/photos/gray-cat-leaning-on-scratch-post-and-looking-on-hanged-fur-fish-1hBWrLIDSCc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@flowerchildkimmi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kim Davies</a> on <a href="https://unsplash.com/photos/gray-kitten-sitting-on-floor-fEK4jvgnApg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 Photo by Barnabas Davoti: https://www.pexels.com/photo/retriver-dogs-tugging-on-plush-monkey-toy-14084428/
