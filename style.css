@@ -46,16 +46,21 @@ a, .secondary-text{
     justify-content: center;
     align-items: center;
     padding: 100px 0px;
-    gap: 50px;
+    gap: 30px;
+    flex-wrap: wrap;
 
 }
 .left{
     margin-left: 100px;
+    margin-right: 100px;
+    flex: 1 0 500px;
+   
 }
 
 .right{
+    margin-left: 100px;
     margin-right: 100px;
-    flex: 1 0 300px;
+    
 }
 
 .main-text{
@@ -74,3 +79,112 @@ a, .secondary-text{
     border-radius: 7px;
 }
 
+h2{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-top: 40px;
+}
+
+.pics{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.pic{
+    width: 300px;
+    height: 300px;
+}
+.info-img{
+    width: 300px;
+    border-radius: 10px;
+    border: #e5e7eb solid 3px;
+}
+
+.info-text{
+    font-size: 15px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    color:#1F2937
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    margin:  0 150px;
+    padding-top: 60px;
+}
+
+.quote-name{
+    text-align: right;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 150px;
+    padding-right: 45px;
+    padding-bottom: 60px;
+    color:#1F2937
+}
+
+.contact{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3382f6;
+    margin: 70px 100px;
+    border-radius: 10px;
+    align-items: center;
+    gap: 40px;
+}
+
+.contact-text{
+    margin: 20px 0px;
+    margin-left: 40px;
+}
+
+.contact-title{
+    color: #e5e7eb;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.contact-subtitle{
+    color: #e5e7eb;
+    font-weight: lighter;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+button{
+    color: #e5e7eb;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: #3382f6;
+    border-color: #e5e7eb;
+    padding: 5px 40px;
+    border-radius: 5px;
+    border-style: none;
+    border: #e5e7eb 2px solid;
+    margin-right: 40px;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 10px 0px;
+}
+p{
+    text-align: center;
+    color: #e5e7eb;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
